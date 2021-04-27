@@ -1,0 +1,16 @@
+html {
+    background-color: gray;
+}
+
+body {
+    font-display: swap;
+    margin: auto;
+    width: 50%;
+    background-color: limegreen;
+    color: white;
+    border-radius: 20px;
+    border: 2px solid black;
+    padding: 20px;
+    font-family: veranda, geneva, tahoma, sans-serif;
+    text-align: center;
+}
