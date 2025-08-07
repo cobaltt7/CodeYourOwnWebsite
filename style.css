@@ -3,14 +3,14 @@ html {
 }
 
 body {
-	font-display: swap;
 	margin: auto;
-	width: 50%;
-	background-color: limegreen;
-	color: white;
-	border-radius: 20px;
 	border: 2px solid black;
+	border-radius: 20px;
+	background-color: limegreen;
 	padding: 20px;
+	width: 50%;
+	color: white;
 	font-family: veranda, geneva, tahoma, sans-serif;
+	font-display: swap;
 	text-align: center;
 }
